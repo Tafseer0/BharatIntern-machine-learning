@@ -23,4 +23,5 @@ Steps Performed:
 7. Model Selection: Selected the appropriate linear regression model based on the problem requirements.
 8. Model Training: Finally our model is trained on the training data. The goal is to find the best-fitting line.
 9. Model Prediction: It is ready to make predictions on new, unseen data.
-10.Model Evaluation: After training, appropriate evaluation metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), Mean Absolute Error (MAE) & R-squred score.
+10. Model Evaluation: After training, appropriate evaluation metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), Mean Absolute Error (MAE) & 
+    R-squred score.
