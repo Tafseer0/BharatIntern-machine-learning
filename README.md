@@ -1,2 +1,4 @@
 # BharatIntern-machine-learning
-In this repository bharatintern intership of machine learning  all three task present. 
+This is the bharatintern virtual intership task repository.
+Intership Domain is Machine Learning.
+In this repository all three tasks are present. 
